@@ -1,0 +1,14 @@
+body {
+  background: linear-gradient(to right,red,purple);
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.main{
+  font-family: 'Poppins', sans-serif;
+font-family: 'Rubik Iso', cursive;
+}
